@@ -1,4 +1,4 @@
-const courses = [
+"courses": [
   {
     id: 1,
     title: "Securing React Apps with Auth0",
